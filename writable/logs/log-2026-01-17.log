@@ -1,0 +1,525 @@
+CRITICAL - 2026-01-17 06:03:59 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "all_list.php"
+[Method: GET, Route: list-lead]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('all_list.php')
+ 2 SYSTEMPATH\Common.php(1199): CodeIgniter\View\View->render('all_list', [], true)
+ 3 APPPATH\Controllers\Leads.php(14): view('all_list')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Leads->all_list()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Leads))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-01-17 06:04:00 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "all_list.php"
+[Method: GET, Route: list-lead]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('all_list.php')
+ 2 SYSTEMPATH\Common.php(1199): CodeIgniter\View\View->render('all_list', [], true)
+ 3 APPPATH\Controllers\Leads.php(14): view('all_list')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Leads->all_list()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Leads))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-01-17 06:06:02 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "all_list.php"
+[Method: GET, Route: list-lead]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('all_list.php')
+ 2 SYSTEMPATH\Common.php(1199): CodeIgniter\View\View->render('all_list', [], true)
+ 3 APPPATH\Controllers\Leads.php(14): view('all_list')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Leads->all_list()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Leads))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-01-17 06:06:09 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "all_list.php"
+[Method: GET, Route: list-lead]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('all_list.php')
+ 2 SYSTEMPATH\Common.php(1199): CodeIgniter\View\View->render('all_list', [], true)
+ 3 APPPATH\Controllers\Leads.php(14): view('all_list')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Leads->all_list()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Leads))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-01-17 06:07:16 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "all_list.php"
+[Method: GET, Route: list-lead]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('all_list.php')
+ 2 SYSTEMPATH\Common.php(1199): CodeIgniter\View\View->render('all_list', [], true)
+ 3 APPPATH\Controllers\Leads.php(14): view('all_list')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Leads->all_list()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Leads))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-01-17 06:09:34 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "leads/all_list.php"
+[Method: GET, Route: list-lead]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('leads/all_list.php')
+ 2 SYSTEMPATH\Common.php(1199): CodeIgniter\View\View->render('leads/all_list', [], true)
+ 3 APPPATH\Controllers\Leads.php(14): view('leads/all_list')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Leads->all_list()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Leads))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-01-17 06:09:36 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "leads/all_list.php"
+[Method: GET, Route: list-lead]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('leads/all_list.php')
+ 2 SYSTEMPATH\Common.php(1199): CodeIgniter\View\View->render('leads/all_list', [], true)
+ 3 APPPATH\Controllers\Leads.php(14): view('leads/all_list')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Leads->all_list()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Leads))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-01-17 06:11:04 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "all_list.php"
+[Method: GET, Route: list-lead]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('all_list.php')
+ 2 SYSTEMPATH\Common.php(1199): CodeIgniter\View\View->render('all_list', [], true)
+ 3 APPPATH\Controllers\Leads.php(14): view('all_list')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Leads->all_list()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Leads))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-01-17 06:12:09 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "all_list.php"
+[Method: GET, Route: list-lead]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('all_list.php')
+ 2 SYSTEMPATH\Common.php(1199): CodeIgniter\View\View->render('all_list', [], true)
+ 3 APPPATH\Controllers\Leads.php(14): view('all_list')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Leads->all_list()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Leads))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-01-17 06:12:10 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "all_list.php"
+[Method: GET, Route: list-lead]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('all_list.php')
+ 2 SYSTEMPATH\Common.php(1199): CodeIgniter\View\View->render('all_list', [], true)
+ 3 APPPATH\Controllers\Leads.php(14): view('all_list')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Leads->all_list()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Leads))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-01-17 06:12:19 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "all_list.php"
+[Method: GET, Route: list-lead]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('all_list.php')
+ 2 SYSTEMPATH\Common.php(1199): CodeIgniter\View\View->render('all_list', [], true)
+ 3 APPPATH\Controllers\Leads.php(14): view('all_list')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Leads->all_list()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Leads))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-01-17 06:15:18 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "leads/all_list.php"
+[Method: GET, Route: list-lead]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('leads/all_list.php')
+ 2 SYSTEMPATH\Common.php(1199): CodeIgniter\View\View->render('leads/all_list', [], true)
+ 3 APPPATH\Controllers\Leads.php(14): view('leads/all_list')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Leads->all_list()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Leads))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-01-17 06:15:20 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "leads/all_list.php"
+[Method: GET, Route: list-lead]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('leads/all_list.php')
+ 2 SYSTEMPATH\Common.php(1199): CodeIgniter\View\View->render('leads/all_list', [], true)
+ 3 APPPATH\Controllers\Leads.php(14): view('leads/all_list')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Leads->all_list()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Leads))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-01-17 06:19:34 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "lead_list.php"
+[Method: GET, Route: lead-list]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('lead_list.php')
+ 2 SYSTEMPATH\Common.php(1199): CodeIgniter\View\View->render('lead_list', [], true)
+ 3 APPPATH\Controllers\Leads.php(13): view('lead_list')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Leads->lead_list()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Leads))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-01-17 06:21:29 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "leads/lead_list.php"
+[Method: GET, Route: lead-list]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('leads/lead_list.php')
+ 2 SYSTEMPATH\Common.php(1199): CodeIgniter\View\View->render('leads/lead_list', [], true)
+ 3 APPPATH\Controllers\Leads.php(13): view('leads/lead_list')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Leads->lead_list()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Leads))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-01-17 06:44:25 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "leads/lead_list.php"
+[Method: GET, Route: lead-list]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('leads/lead_list.php')
+ 2 SYSTEMPATH\Common.php(1199): CodeIgniter\View\View->render('leads/lead_list', [], true)
+ 3 APPPATH\Controllers\Leads.php(13): view('leads/lead_list')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Leads->lead_list()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Leads))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-01-17 06:45:59 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "leads/lead_list.php"
+[Method: GET, Route: lead-list]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('leads/lead_list.php')
+ 2 SYSTEMPATH\Common.php(1199): CodeIgniter\View\View->render('leads/lead_list', [], true)
+ 3 APPPATH\Controllers\Leads.php(13): view('leads/lead_list')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Leads->lead_list()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Leads))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-01-17 06:46:37 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "leads/lead_list.php"
+[Method: GET, Route: lead-list]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('leads/lead_list.php')
+ 2 SYSTEMPATH\Common.php(1199): CodeIgniter\View\View->render('leads/lead_list', [], true)
+ 3 APPPATH\Controllers\Leads.php(13): view('leads/lead_list')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Leads->lead_list()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Leads))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-01-17 06:47:29 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "leads/lead_list.php"
+[Method: GET, Route: lead-list]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('leads/lead_list.php')
+ 2 SYSTEMPATH\Common.php(1199): CodeIgniter\View\View->render('leads/lead_list', [], true)
+ 3 APPPATH\Controllers\Leads.php(13): view('leads/lead_list')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Leads->lead_list()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Leads))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-01-17 06:48:11 --> ErrorException: include(common/head.php): Failed to open stream: No such file or directory
+[Method: GET, Route: lead-list]
+in APPPATH\Views\leads\lead_list.php on line 8.
+ 1 APPPATH\Views\leads\lead_list.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(common/head.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\lead\\app\\Views\\leads\\lead_list.php', 8)
+ 2 APPPATH\Views\leads\lead_list.php(8): include()
+ 3 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\lead\\app\\Views\\leads\\lead_list.php')
+ 4 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1199): CodeIgniter\View\View->render('leads/lead_list', [], true)
+ 6 APPPATH\Controllers\Leads.php(13): view('leads/lead_list')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Leads->lead_list()
+ 8 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Leads))
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-01-17 06:48:36 --> ErrorException: include(common/header.php): Failed to open stream: No such file or directory
+[Method: GET, Route: lead-list]
+in APPPATH\Views\leads\lead_list.php on line 14.
+ 1 APPPATH\Views\leads\lead_list.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(common/header.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\lead\\app\\Views\\leads\\lead_list.php', 14)
+ 2 APPPATH\Views\leads\lead_list.php(14): include()
+ 3 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\lead\\app\\Views\\leads\\lead_list.php')
+ 4 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1199): CodeIgniter\View\View->render('leads/lead_list', [], true)
+ 6 APPPATH\Controllers\Leads.php(13): view('leads/lead_list')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Leads->lead_list()
+ 8 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Leads))
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-01-17 06:49:20 --> ErrorException: include(common/footer.php): Failed to open stream: No such file or directory
+[Method: GET, Route: lead-list]
+in APPPATH\Views\leads\lead_list.php on line 313.
+ 1 APPPATH\Views\leads\lead_list.php(313): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(common/footer.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\lead\\app\\Views\\leads\\lead_list.php', 313)
+ 2 APPPATH\Views\leads\lead_list.php(313): include()
+ 3 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\lead\\app\\Views\\leads\\lead_list.php')
+ 4 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1199): CodeIgniter\View\View->render('leads/lead_list', [], true)
+ 6 APPPATH\Controllers\Leads.php(13): view('leads/lead_list')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Leads->lead_list()
+ 8 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Leads))
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-01-17 06:49:57 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "add_lead.php"
+[Method: GET, Route: new-lead]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('add_lead.php')
+ 2 SYSTEMPATH\Common.php(1199): CodeIgniter\View\View->render('add_lead', [], true)
+ 3 APPPATH\Controllers\Leads.php(9): view('add_lead')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Leads->add_lead()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Leads))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-01-17 06:51:00 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "add_lead.php"
+[Method: GET, Route: new-lead]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('add_lead.php')
+ 2 SYSTEMPATH\Common.php(1199): CodeIgniter\View\View->render('add_lead', [], true)
+ 3 APPPATH\Controllers\Leads.php(9): view('add_lead')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Leads->add_lead()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Leads))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-01-17 06:58:13 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "leads/lead_detail.php"
+[Method: GET, Route: lead-detail]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('leads/lead_detail.php')
+ 2 SYSTEMPATH\Common.php(1199): CodeIgniter\View\View->render('leads/lead_detail', [], true)
+ 3 APPPATH\Controllers\Leads.php(19): view('leads/lead_detail')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Leads->lead_detail()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Leads))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-01-17 06:58:58 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "leads/lead_detail.php"
+[Method: GET, Route: lead-detail]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('leads/lead_detail.php')
+ 2 SYSTEMPATH\Common.php(1199): CodeIgniter\View\View->render('leads/lead_detail', [], true)
+ 3 APPPATH\Controllers\Leads.php(19): view('leads/lead_detail')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Leads->lead_detail()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Leads))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-01-17 06:59:33 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "leads/lead_detail.php"
+[Method: GET, Route: lead-detail]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('leads/lead_detail.php')
+ 2 SYSTEMPATH\Common.php(1199): CodeIgniter\View\View->render('leads/lead_detail', [], true)
+ 3 APPPATH\Controllers\Leads.php(19): view('leads/lead_detail')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Leads->lead_detail()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Leads))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-01-17 06:59:35 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "leads/lead_detail.php"
+[Method: GET, Route: lead-detail]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('leads/lead_detail.php')
+ 2 SYSTEMPATH\Common.php(1199): CodeIgniter\View\View->render('leads/lead_detail', [], true)
+ 3 APPPATH\Controllers\Leads.php(19): view('leads/lead_detail')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Leads->lead_detail()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Leads))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-01-17 06:59:48 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "leads/lead_detail.php"
+[Method: GET, Route: lead-detail]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('leads/lead_detail.php')
+ 2 SYSTEMPATH\Common.php(1199): CodeIgniter\View\View->render('leads/lead_detail', [], true)
+ 3 APPPATH\Controllers\Leads.php(19): view('leads/lead_detail')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Leads->lead_detail()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Leads))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-01-17 07:00:01 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "leads/lead_detail.php"
+[Method: GET, Route: lead-detail]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('leads/lead_detail.php')
+ 2 SYSTEMPATH\Common.php(1199): CodeIgniter\View\View->render('leads/lead_detail', [], true)
+ 3 APPPATH\Controllers\Leads.php(19): view('leads/lead_detail')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Leads->lead_detail()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Leads))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-01-17 07:01:29 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "leads/lead_detail.php"
+[Method: GET, Route: lead-detail]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('leads/lead_detail.php')
+ 2 SYSTEMPATH\Common.php(1199): CodeIgniter\View\View->render('leads/lead_detail', [], true)
+ 3 APPPATH\Controllers\Leads.php(19): view('leads/lead_detail')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Leads->lead_detail()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Leads))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-01-17 07:01:33 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "leads/lead_detail.php"
+[Method: GET, Route: lead-detail]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('leads/lead_detail.php')
+ 2 SYSTEMPATH\Common.php(1199): CodeIgniter\View\View->render('leads/lead_detail', [], true)
+ 3 APPPATH\Controllers\Leads.php(19): view('leads/lead_detail')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Leads->lead_detail()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Leads))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-01-17 07:02:55 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "leads/lead_detail.php"
+[Method: GET, Route: lead-detail]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('leads/lead_detail.php')
+ 2 SYSTEMPATH\Common.php(1199): CodeIgniter\View\View->render('leads/lead_detail', [], true)
+ 3 APPPATH\Controllers\Leads.php(19): view('leads/lead_detail')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Leads->lead_detail()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Leads))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-01-17 07:04:53 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "leads/lead_detail.php"
+[Method: GET, Route: lead-detail]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('leads/lead_detail.php')
+ 2 SYSTEMPATH\Common.php(1199): CodeIgniter\View\View->render('leads/lead_detail', [], true)
+ 3 APPPATH\Controllers\Leads.php(18): view('leads/lead_detail')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Leads->lead_detail()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Leads))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-01-17 07:06:10 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "leads/lead_detail.php"
+[Method: GET, Route: lead-detail]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('leads/lead_detail.php')
+ 2 SYSTEMPATH\Common.php(1199): CodeIgniter\View\View->render('leads/lead_detail', [], true)
+ 3 APPPATH\Controllers\Leads.php(18): view('leads/lead_detail')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Leads->lead_detail()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Leads))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-01-17 07:57:09 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "followup/converted_leads.php"
+[Method: GET, Route: lead-converter]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('followup/converted_leads.php')
+ 2 SYSTEMPATH\Common.php(1199): CodeIgniter\View\View->render('followup/converted_leads', [], true)
+ 3 APPPATH\Controllers\Followup.php(14): view('followup/converted_leads')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Followup->converted_leads()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Followup))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-01-17 08:21:53 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "agent/source_report.php"
+[Method: GET, Route: source-report]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('agent/source_report.php')
+ 2 SYSTEMPATH\Common.php(1199): CodeIgniter\View\View->render('agent/source_report', [], true)
+ 3 APPPATH\Controllers\Agent.php(14): view('agent/source_report')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Agent->source_report()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Agent))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-01-17 08:21:55 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "agent/source_report.php"
+[Method: GET, Route: source-report]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('agent/source_report.php')
+ 2 SYSTEMPATH\Common.php(1199): CodeIgniter\View\View->render('agent/source_report', [], true)
+ 3 APPPATH\Controllers\Agent.php(14): view('agent/source_report')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Agent->source_report()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Agent))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-01-17 09:19:49 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "report/user.php"
+[Method: GET, Route: user]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('report/user.php')
+ 2 SYSTEMPATH\Common.php(1199): CodeIgniter\View\View->render('report/user', [], true)
+ 3 APPPATH\Controllers\Agent.php(19): view('report/user')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Agent->user()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Agent))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-01-17 09:20:40 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "agent/user.php"
+[Method: GET, Route: user]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('agent/user.php')
+ 2 SYSTEMPATH\Common.php(1199): CodeIgniter\View\View->render('agent/user', [], true)
+ 3 APPPATH\Controllers\Agent.php(19): view('agent/user')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Agent->user()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Agent))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-01-17 09:20:42 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "agent/user.php"
+[Method: GET, Route: user]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('agent/user.php')
+ 2 SYSTEMPATH\Common.php(1199): CodeIgniter\View\View->render('agent/user', [], true)
+ 3 APPPATH\Controllers\Agent.php(19): view('agent/user')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Agent->user()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Agent))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-01-17 09:20:43 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "agent/user.php"
+[Method: GET, Route: user]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('agent/user.php')
+ 2 SYSTEMPATH\Common.php(1199): CodeIgniter\View\View->render('agent/user', [], true)
+ 3 APPPATH\Controllers\Agent.php(19): view('agent/user')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Agent->user()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Agent))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-01-17 09:20:43 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "agent/user.php"
+[Method: GET, Route: user]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('agent/user.php')
+ 2 SYSTEMPATH\Common.php(1199): CodeIgniter\View\View->render('agent/user', [], true)
+ 3 APPPATH\Controllers\Agent.php(19): view('agent/user')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Agent->user()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Agent))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))

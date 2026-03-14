@@ -1,0 +1,253 @@
+/* process.php */
+.process-column {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    border-radius: 8px;
+}
+
+.process-card {
+    cursor: pointer;
+    transition: transform 0.2s;
+    border-left: 4px solid transparent;
+    height: 220px;
+    display: flex;
+}
+
+.process-card .card-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.process-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+.border-new {
+    border-left-color: #0dcaf0 !important;
+}
+
+.border-contacted {
+    border-left-color: #ffc107 !important;
+}
+
+.border-interested {
+    border-left-color: #6610f2 !important;
+}
+
+.border-won {
+    border-left-color: #198754 !important;
+}
+
+
+/* lead-details */
+
+.activity-feed {
+    list-style: none;
+    padding: 0;
+    position: relative;
+}
+
+.activity-feed .feed-item {
+    position: relative;
+    padding-left: 30px;
+    border-left: 2px solid #e4e4e4;
+    padding-bottom: 20px;
+}
+
+.activity-feed .feed-item::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: -6px;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background: #fff;
+    border: 2px solid #0d6efd;
+}
+
+.activity-feed .feed-date {
+    font-size: 12px;
+    color: #888;
+    margin-bottom: 4px;
+}
+
+.activity-feed .feed-text {
+    display: block;
+    font-weight: 500;
+    font-size: 14px;
+    color: #333;
+}
+
+
+.form-label {
+    margin-bottom: 2px;
+    font-size: 13px;
+}
+
+
+
+textarea.form-control {
+    height: 96px !important;
+    resize: none;
+}
+
+h6 {
+    font-size: 14px;
+}
+
+
+/* search box header  */
+
+.edit-row a {
+    visibility: hidden;
+}
+
+.edit-row:hover a {
+    visibility: visible;
+}
+
+span.vError {
+    color: red;
+    font-size: 10px;
+    float: right;
+}
+
+
+
+
+.user-filter-box .btn {
+    height: 32px;
+    font-size: 12px;
+    border-radius: 6px;
+    white-space: nowrap;
+}
+
+/* Mobile responsive */
+@media (max-width: 768px) {
+    .user-filter-box {
+        flex-wrap: wrap;
+        justify-content: flex-start;
+    }
+
+    .user-filter-box .filter-input {
+        width: 100%;
+    }
+}
+
+
+.user-filter-box .filter-input {
+    min-width: 110px;
+    height: 28px;
+    font-size: 10px;
+    border-radius: 5px;
+}
+
+.user-filter-box .btn {
+    height: 28px;
+    font-size: 10px;
+    border-radius: 5px;
+    white-space: nowrap;
+}
+
+@media (max-width: 768px) {
+    .user-filter-box {
+        flex-wrap: wrap;
+        justify-content: flex-start;
+    }
+
+    .user-filter-box .filter-input {
+        width: 100%;
+    }
+}
+
+
+/* Animation In Login/Register */
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translate3d(0, 50px, 0);
+    }
+
+    to {
+        opacity: 1;
+        transform: translate3d(0, 0, 0);
+    }
+}
+
+.card-animated {
+    animation-name: fadeInUp;
+    animation-duration: 1s;
+    animation-fill-mode: both;
+    transition: all 0.4s ease;
+}
+
+
+.card-animated:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 25px 50px rgba(125, 76, 240, 0.3) !important;
+}
+
+.preloader {
+    position: fixed;
+    z-index: 9999999;
+    width: 100%;
+    height: 100%;
+    background-color: #3e3939cf;
+    top: 0;
+    left: 0;
+    background-image: url(../img/loader.gif);
+    background-repeat: no-repeat;
+    background-position: center;
+    display: none;
+}
+
+
+
+.profile-upload-container {
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.profile-upload-container img {
+    width: 80px;
+    height: 80px;
+    object-fit: cover;
+}
+
+
+.image-overlay {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(0, 0, 0, 0.5);
+    color: #fff;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+.profile-upload-container:hover .image-overlay {
+    opacity: 1;
+}
+
+.image-overlay-visible {
+    opacity: 1 !important;
+}
+
+.iti {
+    width: 100%;
+}
+
+
+
