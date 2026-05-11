@@ -10,11 +10,11 @@ use CodeIgniter\Router\RouteCollection;
 $routes->get('logout', 'Auth::logout');
 
 $routes->group('', ['filter' => 'Nologin'], function($routes){
-    // $routes->get('login', 'Auth::index');
-    // $routes->post('auth-user', 'Auth::login_auth');
+    $routes->get('login', 'Auth::index');
+    $routes->post('auth-user', 'Auth::login_auth');
 
-    // $routes->get('register', 'Auth::register');
-    // $routes->post('register', 'Auth::save_register');
+    $routes->get('register', 'Auth::register');
+    $routes->post('register', 'Auth::save_register');
 
 });
 
